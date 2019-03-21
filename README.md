@@ -1,5 +1,14 @@
 # Multiple Select
 
+
+This branch is locked on 1.2.1 and fix an CSS issue:
+
+wenzhixin#400
+wenzhixin#368
+
+
+
+
 Multiple select is a jQuery plugin to select multiple elements with checkboxes :).
 
 To get started checkout examples and documentation at http://wenzhixin.net.cn/p/multiple-select
