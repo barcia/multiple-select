@@ -214,7 +214,8 @@
                     this.options.selectAllDelimiter[0],
                     this.options.selectAllText,
                     this.options.selectAllDelimiter[1],
-                    '</label>',
+										'</label>',
+										'<a href="#">Info</a>',
                     '</li>'
                 ].join(''));
             }
