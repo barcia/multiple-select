@@ -215,7 +215,6 @@
                     this.options.selectAllText,
                     this.options.selectAllDelimiter[1],
 										'</label>',
-										'<a href="#">Info</a>',
                     '</li>'
                 ].join(''));
             }
@@ -272,7 +271,8 @@
                         disabled ? ' disabled="disabled"' : '',
                         sprintf(' data-group="%s"', group)),
                     text,
-                    '</label>',
+										'</label>',
+										'<a href="#">Info</a>',
                     '</li>'
                 ].join(''));
                 $el.find('input').val(value);
