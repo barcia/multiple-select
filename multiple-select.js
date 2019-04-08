@@ -737,7 +737,7 @@
         filterAcceptOnEnter: false,
         hideOptgroupCheckboxes: false,
 
-        selectAllText: 'Seleccionar todo',
+        selectAllText: 'Seleccionar todo 2',
         allSelected: 'Todos seleccionados',
         countSelected: '# de % seleccionados',
         noMatchesFound: 'No se ha encontrado nada',
